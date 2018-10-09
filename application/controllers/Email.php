@@ -26,7 +26,7 @@ class Email extends CI_Controller {
 			$pesan = "Kami telah mereset Ulang Kata sandi ".$nama_user." dari permintaan Recover password atau Forgot Password melalui web kami \n\n
 			DETAIL AKUN ANDA SAAT INI :\n Email : ".$email." \n Kata sandi anda yang baru adalah: ".$passwordbaru."\n
 			Silahkan login dengan password baru anda dan segera ganti password tersebut dengan password yang anda inginkan dan mudah anda ingat\n
-			\n\nPESAN NO-REPLY\n\nRegards\nPotret Layanan";
+			\n\nPESAN NO-REPLY\n\nRegards\nPT. DWI GUNA SENTOSA";
 
 			$data1 = array('id_user'=>$id_user,
 							'password'=>$passwordreset);
