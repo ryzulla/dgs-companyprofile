@@ -154,7 +154,7 @@
                             data-splitin="none"
                             data-splitout="none"
                             data-responsive_offset="on"
-                            data-paddingright="['205','205','150','20']" > Kami hadir untuk menjadi partner kerja sama yang harmonis dalam menciptakan hasil yang nyata dalam jasa konstruksi. </div>
+                            data-paddingright="['205','205','150','20']" > Kami hadir untuk menjadi partner kerja sama yang harmonis dalam menciptakan hasil yang nyata dalam jasa pembongkaran bangunan. </div>
 
                             <div class="tp-caption center-mobile"
                             data-x="['left','left','left','center']" data-hoffset="['-4','-4','-4','0']"
@@ -215,7 +215,7 @@
                             data-start="1000"
                             data-splitin="none"
                             data-splitout="none"
-                            data-responsive_offset="on"> <a href="#" class="text-white">CONSTRUCTION INDUSTRY</a> </div>
+                            data-responsive_offset="on"> <a href="#" class="text-white">SPESIALIS JASA PEMBONGKARAN BANGUNAN</a> </div>
 
                             <div class="tp-caption tp-resizeme text-white font-rubik font-weight-400 text-right center-mobile"
                             data-x="['left','left','left','center']" data-hoffset="['-2','-2','-2','0']"
@@ -233,7 +233,7 @@
                             data-start="1000"
                             data-splitin="none"
                             data-splitout="none"
-                            data-responsive_offset="on" > Kami adalah sebuah perusahaan yang bergerak pada bidang konstruksi yang turut serta membangun senyum kepuasan para mitra akan kinerja kami. Sebuah pencapaian yang tidak mudah untuk terus tetap berdiri  kokoh memberikan hasil yang terbaik.</div>
+                            data-responsive_offset="on" > Kami adalah sebuah perusahaan yang bergerak pada bidang Pembongkaran Bangunan yang turut serta membangun senyum kepuasan para mitra akan kinerja kami. Sebuah pencapaian yang tidak mudah untuk terus tetap berdiri  kokoh memberikan hasil yang terbaik.</div>
 
                             <div class="tp-caption text-right center-mobile"
                             data-x="['left','left','left','center']" data-hoffset="['-4','-4','-4','0']"
@@ -252,7 +252,7 @@
                             data-responsive_offset="on"
                             data-paddingtop= "['50','50','50','50']"
                             data-paddingbottom= "['50','50','50','50']"
-                            > <a href="#" class="btn btn-styl button-project">OUR PORJECT</a> <a href="#" class="btn btn-styl2 button-contact">CONTACT US</a> </div>
+                            > <a href="#" class="btn btn-styl button-project">OUR PORJECT</a> <a href="#contact" class="btn btn-styl2 button-contact">CONTACT US</a> </div>
                         </li><!-- /End Slide 2 -->
                     </ul>
                 </div>
