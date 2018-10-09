@@ -181,7 +181,7 @@
                             <img src="<?php echo base_url()?>assets/front/images/style1/header.png" alt="" data-bgposition="center center" data-no-retina>
                             <div class=""></div>
                             <!-- Layers -->
-                            
+
 
                             <div class="tp-caption tp-resizeme font-rubik font-weight-700 text-right center-mobile"
                             data-x="['left','left','left','center']" data-hoffset="['-2','-2','-2','0']"
